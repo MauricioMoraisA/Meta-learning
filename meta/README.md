@@ -1,4 +1,4 @@
-# Data Imputation and Pix2Pix Model Experiments
+# Data Imputation using meta-learning
 
 This repository contains code and scripts used for experiments on data imputation.
 
