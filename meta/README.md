@@ -80,7 +80,7 @@ To check additional information, execute `work_preds`.
 
 ## Contact
 
-If you have any questions, contact us at: [your_email@example.com](mailto:your_email@example.com)
+If you have any questions, contact us at: mauricio.ma@discente.ufma.br
 
 ---
 
